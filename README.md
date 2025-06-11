@@ -1,5 +1,5 @@
 # php-mysql-login-page
-Basic Login and Register page using php with mysql database.
+Basic Login and Register page using php with mysql database without any css.
 
 1. Register page: Validates if a username already exists.
 2. Login page: Authenticates existing user.
