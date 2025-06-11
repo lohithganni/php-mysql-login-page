@@ -1,4 +1,8 @@
 # php-mysql-login-page
-login and register page using php with mysql database
+Login and Register page using php with mysql database.
 
-using a mysql database queries the user for username and password 
+1. Register page: Validates if a username already exists.
+2. Login page: Authenticates existing user.
+3. Connection to MYSQL database using mysqli.
+
+
